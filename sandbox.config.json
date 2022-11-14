@@ -1,0 +1,10 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": false,
+  "view": "browser",
+  "template": "nuxt",
+  "container": {
+    "node": "16",
+    "port": 3000
+  }
+}
